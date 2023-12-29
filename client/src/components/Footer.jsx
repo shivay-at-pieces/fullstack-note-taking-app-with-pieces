@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer>
-      <p>&copy; {new Date().getFullYear()} Scaler Open Source</p>
+      <p>&copy; {new Date().getFullYear()} Pieces Open Source</p>
     </footer>
   );
 };
